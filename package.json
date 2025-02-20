@@ -4,7 +4,7 @@
   "description": "Set de pruebas solicitados por Nolatech",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open --e2e --browser chrome",
+    "cypress:open": "cypress open",
     "cypress:run": "cypress run"
   },
   "author": "Lautaro Nievas",
