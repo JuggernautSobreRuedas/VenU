@@ -1,0 +1,15 @@
+{
+  "name": "venu",
+  "version": "1.0.0",
+  "description": "Set de pruebas solicitados por Nolatech",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open --e2e --browser chrome",
+    "cypress:run": "cypress run"
+  },
+  "author": "Lautaro Nievas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
